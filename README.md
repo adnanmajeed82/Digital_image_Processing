@@ -77,3 +77,7 @@ Teaching Experience:
 Beaconhouse National University (BNU)
 
 Lahore Leads University
+
+
+[![Video Thumbnail](https://github.com/user-attachments/assets/4752a74a-c557-4161-99f4-2836427a41dd)](https://www.youtube.com/watch?v=tuuBH8mFWcA&t=37s)
+
