@@ -71,17 +71,11 @@ Tech: Pixel manipulation, channel extraction
 **Research Article (ResearchGate):**  
 https://www.researchgate.net/publication/335395696_Blood_Cell_Segmentation_Using_Matlab_Nuclei_Cell_Counting_Splitting_Cell_SBF_LCF_cell_image_processing
 
+[Digital Image Restoration: Restoration of Burned Image Documents Using Digital Image Processing – Possibilities and Limitations](https://www.researchgate.net/publication/399722709_Digital_Image_Restoration_Restoration_of_Burned_image_Documents_Using_Digital_Image_Processing_Possibilities_and_Limitations)
 
+Data Scientist with 15+ years of experience across machine learning, data analytics, NLP, and backend API development. Strong expertise in building predictive models, ML-powered systems, and scalable REST APIs using Python and Django REST Framework. Proven ability to translate complex data into actionable insights for business and academic stakeholders.
 
-Adnan Majeed is an M.Phil-qualified Lecturer and a seasoned professional with over 15 years of teaching and research experience in Machine Learning, Deep Learning, Data Science, and Artificial Intelligence. Throughout his distinguished career, he has empowered students with cutting-edge knowledge in advanced computing, fostering analytical thinking and innovation.
-
-He has successfully guided numerous undergraduate and postgraduate students in implementing real-world AI and data-driven solutions, bridging the gap between theoretical foundations and practical industry applications. Adnan’s expertise lies in developing intelligent systems, conducting impactful research, and delivering dynamic lectures that inspire learners to excel in the evolving tech landscape.
-
-Teaching Experience:
-
-Beaconhouse National University (BNU)
-
-Lahore Leads University
+ 
 
 
 
